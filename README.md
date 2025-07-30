@@ -1,4 +1,4 @@
-**URL Shortener — Affordmed Task**
+# URL Shortener — Affordmed Task
 
 **Built with React + Vite**
 
